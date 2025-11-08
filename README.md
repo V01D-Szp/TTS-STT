@@ -1,5 +1,5 @@
 # TTS-STT
-Personal repository dedicated to the upload and documentation of both Robocup's 2026 TTS and STT as a member of the Andes Robot team. (uwu)
+Personal repository dedicated to the upload and documentation of both Robocup's 2026 TTS and STT as a member of the Andes Robot team.
 
 To compile and execute both TTS and STT correctly, these are the necessary libraries and files that are needed to be install throught both linux bash console, and the terminal console integrated in Visual Studio Code.
 
